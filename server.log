@@ -1,0 +1,11 @@
+07:03:2025:INFO:city_create.py:Pune table created successfully
+07:03:2025:INFO:city_create.py:Pune Records Inserted Successfully
+07:03:2025:INFO:city_create.py:Mumbai table created successfully
+07:03:2025:INFO:city_create.py:Mumbai Records Inserted Successfully
+07:03:2025:INFO:city_create.py:Nagpur table created successfully
+07:03:2025:INFO:city_create.py:Nagpur Records Inserted Successfully
+07:03:2025:INFO:city_create.py:Mumbai Records Inserted Successfully
+07:03:2025:INFO:city_create.py:Nagpur Records Inserted Successfully
+07:03:2025:INFO:city_create.py:Pune Records Inserted Successfully
+07:03:2025:INFO:city_create.py:All records have been successfully inserted into their respected city tables
+07:03:2025:INFO:main.py:copied file from Source_Folder/emp.csv to Processed_Folder
